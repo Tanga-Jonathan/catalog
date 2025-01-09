@@ -1,0 +1,38 @@
+.NavBar {
+  background-color: #0082e6;
+  height: 80px;
+  width: 100%;
+  /* list-style: none;
+  text-decoration: dotted; */
+  box-sizing: border-box;
+}
+.list {
+  list-style: none;
+  float: right;
+  margin-right: 20px;
+}
+.list li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+
+.list li a {
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+  padding: 7px 13px;
+  border-radius: 4px;
+}
+a.active,
+a:hover {
+  background-color: #1b9bff;
+  transition: 0.5s;
+}
+.logo {
+  color: white;
+  font-size: 35px;
+  line-height: 80%;
+  padding: 0 100px;
+  font-weight: bold;
+}
