@@ -1,4 +1,4 @@
-.icons {
+/* .icons {
 }
 .menu {
   color: white;
@@ -30,11 +30,11 @@
     width: 100%;
     height: 100vh;
     background: #2c3e50;
-    top: 80px;
-    /* left: -100%; */
-    text-align: center;
-    /* transition: all 0.5s; */
-  }
+    top: 80px; */
+/* left: -100%; */
+/* text-align: center; */
+/* transition: all 0.5s; */
+/* }
   .NavBar ul li {
     display: block;
     margin: 50px 0;
@@ -47,8 +47,7 @@
   a.active {
     background: none;
     color: #0082e6;
-  }
-  /* .check:checked ~ ul {
+  } */
+/* .check:checked ~ ul {
       left: 0;
     } */
-}
