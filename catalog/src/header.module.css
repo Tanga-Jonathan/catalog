@@ -1,9 +1,9 @@
-.NavBar {
+/* .NavBar {
   background-color: #0082e6;
   height: 80px;
   width: 100%;
-  /* list-style: none;
-  text-decoration: dotted; */
+  list-style: none;
+  text-decoration: dotted;
   box-sizing: border-box;
 }
 .list {
@@ -32,7 +32,7 @@ a:hover {
 .logo {
   color: white;
   font-size: 35px;
-  line-height: 80%;
+  line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
-}
+} */

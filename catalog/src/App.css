@@ -2,4 +2,8 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  /* image */
+  background: url(porshe.jpg) no-repeat;
+  background-size: cover;
+  height: calc(100vh - 80px);
 }

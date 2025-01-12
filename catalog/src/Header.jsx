@@ -7,11 +7,12 @@ import styles from "./header.module.css";
 export default function Header() {
   return (
     <div className={styles.NavBar}>
+      <label className={styles.logo}>Logo</label>
       <input type="checkbox" className={styles.check} />
       <label>
         <FontAwesomeIcon icon={faLayerGroup} className={styles.menu} />
       </label>
-      <label className={styles.logo}>Logo</label>
+
       <ul className={styles.list}>
         <li>
           <Link to="/" className={styles.active}>
